@@ -1,0 +1,20 @@
+body {
+    background-color: #181818;
+}
+h1 {
+    color: #F52936;
+}
+
+p,h3, h4 {
+    color: white;
+}
+
+
+.post {
+    background-color: #262626;
+    border-radius: 0.75rem;
+}
+
+.user {
+    font-style: italic;
+}
